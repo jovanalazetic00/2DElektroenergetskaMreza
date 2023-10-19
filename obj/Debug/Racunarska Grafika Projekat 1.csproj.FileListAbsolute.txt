@@ -1,0 +1,85 @@
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe.config
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.g.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.pdb
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe.config
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.pdb
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.g.cs
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.g.cs
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.g.cs
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.cache
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.lref
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.baml
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.baml
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.baml
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.g.resources
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.Properties.Resources.resources
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.exe
+C:\Users\User\Downloads\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.pdb
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe.config
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\bin\Debug\PZ1.pdb
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.g.cs
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.g.cs
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.g.cs
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.cache
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.lref
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.baml
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.baml
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.baml
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.g.resources
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.Properties.Resources.resources
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.exe
+C:\Users\User\Desktop\Nikolina\Nikolina\Racunarska Grafika Projekat 1\obj\Debug\PZ1.pdb
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe.config
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\bin\Debug\PZ1.exe
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\bin\Debug\PZ1.pdb
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.g.cs
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.g.cs
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.g.cs
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.cache
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\PZ1_MarkupCompile.lref
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Windows\EllipseWindow.baml
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Windows\PolygonWindow.baml
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Windows\TextWindow.baml
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\PZ1.g.resources
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\PZ1.Properties.Resources.resources
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\Racunarska Grafika Projekat 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\PZ1.exe
+C:\Users\User\Desktop\PZ1_Grafika\PZ1_Grafika\Racunarska Grafika Projekat 1\obj\Debug\PZ1.pdb

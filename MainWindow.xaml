@@ -1,0 +1,117 @@
+﻿<Window x:Class="PZ1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PZ1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="950" Width="1000" Background="Bisque">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--Buttons-->
+        <Grid x:Name="buttonGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <Button Content="Učitaj mrežu"
+                    x:Name="btnLoadModel"
+                    Grid.Column="0"
+                    Height="45" Width="145"
+                    FontSize="18"
+                    Click="LoadModel_Click"/>
+
+            <Button Content="Elipsa"
+                    x:Name="btnEllipse"
+                    Grid.Column="1"
+                    Height="45" Width="145"
+                    FontSize="18"
+                    Click="Shape_Click"/>
+
+            <Button Content="Poligon"
+                    x:Name="btnPolygon"
+                    Grid.Column="2"
+                    Height="45" Width="145"
+                    FontSize="18"
+                    Click="Shape_Click"/>
+
+            <Button Content="Tekst"
+                    x:Name="btnText"
+                    Grid.Column="3"
+                    Height="45" Width="145"
+                    FontSize="18"
+                    Click="Shape_Click"/>
+
+            <Button Content="Undo"
+                    x:Name="btnUndo"
+                    Grid.Column="4"
+                    Height="45" Width="145"
+                    FontSize="18"
+                    Click="Undo_Click"/>
+
+            <Button Content="Redo"
+                    x:Name="btnRedo"
+                    Grid.Column="5"
+                    Height="45" Width="145"
+                    FontSize="18"
+                    Click="Redo_Click"/>
+
+            <Button Content="Clear"
+                    x:Name="btnClear"
+                    Grid.Column="6"
+                    Height="45" Width="145"
+                    FontSize="18"
+                    Click="Clear_Click"/>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Zoom nivo:" Grid.Column="0"
+                   VerticalAlignment="Center" HorizontalAlignment="Center"
+                   FontSize="22"/>
+
+            <Slider x:Name="slider" Grid.Column="1"
+                    Minimum="0.1" Maximum="15" Value="0.5"
+                    DockPanel.Dock="Top" VerticalAlignment="Center"/>
+        </Grid>
+
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Grid.Row="2"
+                MouseRightButtonDown="Canvas_MouseRightButtonDown"
+                PreviewMouseLeftButtonDown ="Canvas_PreviewMouseLeftButtonDown"
+                x:Name="scrollViewer">
+            <ScrollViewer.Content>
+                <Canvas x:Name="canvas" DockPanel.Dock="Bottom" Height="2750" Width="2750" Focusable="True"
+                        MouseRightButtonDown="Canvas_MouseRightButtonDown"
+                        PreviewMouseLeftButtonDown ="Canvas_PreviewMouseLeftButtonDown ">
+                    <Canvas.LayoutTransform>
+                        <ScaleTransform x:Name="SkaliranjeTransform" ScaleX="{Binding ElementName=slider, Path=Value}"
+                                ScaleY="{Binding ElementName=slider, Path=Value}"/>
+                    </Canvas.LayoutTransform>
+
+                    <Grid x:Name="networkGraph" ShowGridLines="False" 
+                          VerticalAlignment="Center" HorizontalAlignment="Center"
+                          PreviewMouseLeftButtonDown ="Canvas_PreviewMouseLeftButtonDown" MouseRightButtonDown="Canvas_MouseRightButtonDown"
+                          Height="720" Width="1280"/>
+                </Canvas>
+            </ScrollViewer.Content>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

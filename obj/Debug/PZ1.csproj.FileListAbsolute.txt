@@ -1,0 +1,68 @@
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\bin\Debug\PZ1.exe.config
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\bin\Debug\PZ1.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\bin\Debug\PZ1.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.g.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Styles\Styles.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\EllipseWindow.baml
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\bin\Debug\PZ1.exe.config
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\bin\Debug\PZ1.exe
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\bin\Debug\PZ1.pdb
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.AssemblyReference.cache
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.SuggestedBindingRedirects.cache
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Styles\Styles.baml
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\MainWindow.g.cs
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\TextWindow.g.cs
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\App.g.cs
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1_MarkupCompile.cache
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1_MarkupCompile.lref
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\MainWindow.baml
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\EllipseWindow.baml
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\PolygonWindow.baml
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\TextWindow.baml
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.g.resources
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.Properties.Resources.resources
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.GenerateResource.cache
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.csproj.CoreCompileInputs.cache
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.exe
+D:\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\PZ1.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1\PZ1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\bin\Debug\PZ1.exe.config
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\bin\Debug\PZ1.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\bin\Debug\PZ1.pdb
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.g.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.exe
+D:\Coek\FTN\8. Semestar\Grafika\PZ1 Work\Sotra\PZ1\obj\Debug\PZ1.pdb
